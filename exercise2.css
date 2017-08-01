@@ -1,0 +1,8 @@
+ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.blue{
+	color:blue;
+}
